@@ -1,8 +1,10 @@
 {
   "name": "blobjs",
+  "version": "1.0.1",
   "description": "native Blob interface support",
   "main": "Blob.js",
   "authors": [
+    "clarketm <travis.m.clarke@gmail.com>",
     "eligrey"
   ],
   "license": "MIT",
