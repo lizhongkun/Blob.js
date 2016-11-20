@@ -1,0 +1,24 @@
+{
+  "name": "blobjs",
+  "version": "1.0.0",
+  "description": "native Blob interface support",
+  "main": "Blob.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clarketm/Blob.js.git"
+  },
+  "keywords": [
+    "blob",
+    "Blob",
+    "filesaver"
+  ],
+  "author": "eligrey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clarketm/Blob.js/issues"
+  },
+  "homepage": "https://github.com/clarketm/Blob.js#readme"
+}
