@@ -1,0 +1,22 @@
+{
+  "name": "blobjs",
+  "description": "native Blob interface support",
+  "main": "Blob.js",
+  "authors": [
+    "eligrey"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "blob",
+    "Blob",
+    "filesaver"
+  ],
+  "homepage": "https://github.com/clarketm/Blob.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
