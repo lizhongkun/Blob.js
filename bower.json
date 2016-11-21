@@ -1,7 +1,7 @@
 {
   "name": "blobjs",
-  "version": "1.0.2",
-  "description": "native Blob interface support",
+  "version": "1.0.3",
+  "description": "native Blob interface support (polyfill)",
   "main": "Blob.js",
   "authors": [
     "clarketm <travis.m.clarke@gmail.com>",
@@ -11,7 +11,9 @@
   "keywords": [
     "blob",
     "Blob",
-    "filesaver"
+    "filesaver",
+    "polyfill",
+    "shim"
   ],
   "homepage": "https://github.com/clarketm/Blob.js",
   "ignore": [

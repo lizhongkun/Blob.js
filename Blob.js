@@ -1,6 +1,6 @@
-/* Blob.js v1.0.2
+/* Blob.js v1.0.3
  *
- * A Blob implementation.
+ * native Blob interface support (polyfill)
  *
  * By Eli Grey, http://eligrey.com
  * By Devin Samarin, https://github.com/dsamarin
@@ -8,7 +8,6 @@
  * License: MIT (https://github.com/clarketm/Blob.js/blob/master/LICENSE.md)
  *
  */
-
 
 (function (view) {
 	"use strict";

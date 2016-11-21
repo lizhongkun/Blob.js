@@ -1,7 +1,7 @@
 {
   "name": "blobjs",
-  "version": "1.0.2",
-  "description": "native Blob interface support",
+  "version": "1.0.3",
+  "description": "native Blob interface support (polyfill)",
   "main": "Blob.js",
   "scripts": {
     "test": "gulp"
@@ -13,7 +13,9 @@
   "keywords": [
     "blob",
     "Blob",
-    "filesaver"
+    "filesaver",
+    "polyfill",
+    "shim"
   ],
   "author": "eligrey",
   "license": "MIT",
