@@ -4,7 +4,8 @@
   "description": "native Blob interface support (polyfill)",
   "main": "Blob.js",
   "scripts": {
-    "test": "gulp"
+    "test": "exit 0",
+    "build": "node_modules/.bin/uglifyjs  Blob.js --mangle --comments '/^!|@preserve|@license|@cc_on/i' > Blob.min.js"
   },
   "repository": {
     "type": "git",
@@ -25,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/clarketm/Blob.js/issues"
   },
-  "homepage": "https://github.com/clarketm/Blob.js#readme"
+  "homepage": "https://github.com/clarketm/Blob.js#readme",
+  "devDependencies": {
+    "uglify-js": "^2.7.4"
+  }
 }
