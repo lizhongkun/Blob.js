@@ -1,4 +1,4 @@
-/*! Blob.js v1.1.0
+/*! Blob.js v1.1.1
  *
  * native Blob interface support (polyfill)
  *

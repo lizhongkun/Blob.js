@@ -1,6 +1,6 @@
 {
   "name": "blobjs",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "native Blob interface support (polyfill)",
   "main": "Blob.js",
   "scripts": {
