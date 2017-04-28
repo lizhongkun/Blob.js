@@ -224,7 +224,7 @@
                 return object.__proto__;
             };
 
-        Blob.prototype = getPrototypeOf(new view.Blob());
+        Blob.prototype = getPrototypeOf(new window.Blob());
 
         if (typeof define === "function" && define.amd) {
             define("blobjs", [], function () {
